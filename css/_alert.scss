@@ -6,7 +6,8 @@
   position: relative;
   padding: $alert-padding-y $alert-padding-x;
   margin-bottom: $alert-margin-bottom;
-  border: $alert-border-width solid transparent;
+  border: solid transparent;
+  border-width:0.04rem 0.04rem 0.04rem 0.5rem;
   @include border-radius($alert-border-radius);
 }
 
@@ -46,7 +47,7 @@
 
 @each $color, $value in $theme-colors {
   .alert-#{$color} {
-    @include alert-variant(theme-color-level($color, $alert-bg-level), theme-color-level($color, $alert-border-level), theme-color-level($color, $alert-color-level));
+    @include alert-variant($white, theme-color-level($color, $alert-border-level), theme-color-level($color, $alert-color-level));
     box-shadow:  0px 0px 32px -7px theme-color-level($color, $alert-bg-level);
   }
 }

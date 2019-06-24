@@ -5443,7 +5443,8 @@ a.badge-dark:focus, a.badge-dark.focus {
   position: relative;
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
-  border: 0 solid transparent;
+  border: solid transparent;
+  border-width: 0.04rem 0.04rem 0.04rem 0.5rem;
   border-radius: 5px;
 }
 
@@ -5469,7 +5470,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-primary {
   color: #154360;
-  background-color: #77adcf;
+  background-color: #ecf0f1;
   border-color: #87b6d4;
   -webkit-box-shadow: 0px 0px 32px -7px #77adcf;
           box-shadow: 0px 0px 32px -7px #77adcf;
@@ -5485,7 +5486,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-secondary {
   color: #383d41;
-  background-color: #9fa6ab;
+  background-color: #ecf0f1;
   border-color: #a9b0b5;
   -webkit-box-shadow: 0px 0px 32px -7px #9fa6ab;
           box-shadow: 0px 0px 32px -7px #9fa6ab;
@@ -5501,7 +5502,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-success {
   color: #145a32;
-  background-color: #76c89a;
+  background-color: #ecf0f1;
   border-color: #86cea6;
   -webkit-box-shadow: 0px 0px 32px -7px #76c89a;
           box-shadow: 0px 0px 32px -7px #76c89a;
@@ -5517,7 +5518,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-info {
   color: #1b4f72;
-  background-color: #7ebbe4;
+  background-color: #ecf0f1;
   border-color: #8cc2e6;
   -webkit-box-shadow: 0px 0px 32px -7px #7ebbe4;
           box-shadow: 0px 0px 32px -7px #7ebbe4;
@@ -5533,7 +5534,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-warning {
   color: #856404;
-  background-color: #f7d465;
+  background-color: #ecf0f1;
   border-color: #f6d877;
   -webkit-box-shadow: 0px 0px 32px -7px #f7d465;
           box-shadow: 0px 0px 32px -7px #f7d465;
@@ -5549,7 +5550,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-danger {
   color: #641e16;
-  background-color: #d2827a;
+  background-color: #ecf0f1;
   border-color: #d5918a;
   -webkit-box-shadow: 0px 0px 32px -7px #d2827a;
           box-shadow: 0px 0px 32px -7px #d2827a;
@@ -5565,7 +5566,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-light {
   color: #818182;
-  background-color: #f3f5f6;
+  background-color: #ecf0f1;
   border-color: #f2f5f6;
   -webkit-box-shadow: 0px 0px 32px -7px #f3f5f6;
           box-shadow: 0px 0px 32px -7px #f3f5f6;
@@ -5581,7 +5582,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-dark {
   color: #17202a;
-  background-color: #798590;
+  background-color: #ecf0f1;
   border-color: #88939d;
   -webkit-box-shadow: 0px 0px 32px -7px #798590;
           box-shadow: 0px 0px 32px -7px #798590;
