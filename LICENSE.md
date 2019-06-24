@@ -144,10 +144,16 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 **Source Sans Pro** Font is licensed under the SIL OFL license.
 
-Copyright (c) 2019, Paul D. Hunt,
-with Reserved Font Name Source Sans Pro.
-SIL OPEN FONT LICENSE
-Version 1.1 - 26 February 2007
+Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
@@ -177,7 +183,7 @@ copyright statement(s).
 distributed by the Copyright Holder(s).
 
 "Modified Version" refers to any derivative made by adding to, deleting,
-or substituting — in part or in whole — any of the components of the
+or substituting -- in part or in whole -- any of the components of the
 Original Version, by changing formats or by porting the Font Software to a
 new environment.
 
@@ -231,3 +237,4 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
+
